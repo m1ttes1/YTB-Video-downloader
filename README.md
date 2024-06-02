@@ -19,14 +19,15 @@ O **YouTube Downloader** é uma aplicação simples e intuitiva desenvolvida em 
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/m1ttes1/youtube-downloader.git
-    cd youtube-downloader
+    git clone https://github.com/m1ttes1/YTB-Video-downloader.git
+    cd YTB-Video-downloader
     ```
 
 2. Crie um ambiente virtual e ative-o:
     ```bash
     python -m venv venv
     source venv/bin/activate  # No Windows, use `venv\Scripts\activate`
+
     ```
 
 3. Instale as dependências:
@@ -45,5 +46,4 @@ O **YouTube Downloader** é uma aplicação simples e intuitiva desenvolvida em 
 3. Escolha o formato (vídeo ou áudio) e a qualidade desejada.
 4. Clique em "Baixar" e aguarde a conclusão do download.
 
-## Estrutura do Projeto
 
