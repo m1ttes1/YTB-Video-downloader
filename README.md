@@ -27,7 +27,6 @@ O **YouTube Downloader** é uma aplicação simples e intuitiva desenvolvida em 
     ```bash
     python -m venv venv
     source venv/bin/activate  # No Windows, use `venv\Scripts\activate`
-
     ```
 
 3. Instale as dependências:
@@ -48,29 +47,27 @@ O **YouTube Downloader** é uma aplicação simples e intuitiva desenvolvida em 
 
 ## Melhorias Futuras
 
-    Implementação de responsividade completa para todos os dispositivos.
-    Adição de mais seções descritivas sobre os serviços oferecidos.
-    Integração com um backend para autenticação e gerenciamento de usuários.
+- Implementação de responsividade completa para todos os dispositivos.
+- Adição de mais seções descritivas sobre os serviços oferecidos.
+- Integração com um backend para autenticação e gerenciamento de usuários.
 
 ## Contribuição
 
 Se você quiser contribuir com o projeto, por favor, siga estas etapas:
 
-    Faça um fork do projeto.
-    Crie uma nova branch com a sua feature: git checkout -b minha-feature.
-    Commit suas mudanças: git commit -m 'Minha nova feature'.
-    Faça um push para a branch: git push origin minha-feature.
-    Abra um Pull Request.
+1. Faça um fork do projeto.
+2. Crie uma nova branch com a sua feature: `git checkout -b minha-feature`.
+3. Commit suas mudanças: `git commit -m 'Minha nova feature'`.
+4. Faça um push para a branch: `git push origin minha-feature`.
+5. Abra um Pull Request.
 
-Licença
+## Licença
 
 Este projeto está licenciado sob a MIT License.
-Contato
 
-Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato através de 
+## Contato
+
+Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato através de:
 
 - [LinkedIn](https://www.linkedin.com/in/vmittestainerdev/)
 - E-mail: vmittestainer.dev@gmail.com
-   
-
-
